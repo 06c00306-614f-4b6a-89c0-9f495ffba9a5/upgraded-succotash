@@ -88,6 +88,8 @@ Content-Type: application/json
 3. **Check the response headers in Developer Tools:**
    - If you see your fake origin reflected back, it's vulnerable
 
+<br>
+
 ### Method 2: Using Curl
 
 ```bash
@@ -130,6 +132,8 @@ Imagine a social media site with this vulnerability:
    ```
 
 3. **Result:** Attacker gets all the victim's private messages!
+
+<br>
 
 ### Scenario 2: Account Takeover
 
